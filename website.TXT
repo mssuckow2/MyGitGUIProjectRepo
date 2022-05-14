@@ -1,0 +1,5 @@
+New code()
+{
+this is a bug;
+end of code
+}
